@@ -40,6 +40,25 @@ As a cloud practitioner in training, I was tasked with completing a series of st
 - Configured a DB subnet group and security group  
 - Deployed and interacted with an RDS MySQL instance  
 
+
+# AWS Migration Proposal Project  
+### Case Project: Migrating On-Premises Infrastructure to AWS Cloud  
+
+## Overview  
+This project is a **real-world cloud migration proposal** created as part of an AWS Cloud Practitioner assignment. It outlines the strategic benefits, services, and steps involved in migrating an on-premise e-commerce infrastructure to the AWS Cloud.
+
+## Objective  
+The objective was to assess a growing company's IT environment and provide a cost-effective, scalable AWS-based solution to reduce operational overhead while ensuring security, performance, and flexibility.
+
+## Scenario  
+As an AWS Cloud Practitioner, I evaluated the infrastructure of *My Healthy Eating Inc.* and proposed a migration plan to transition its on-premise three-tier web application to AWS. The proposal includes estimated monthly costs, recommended AWS services, and a phased migration roadmap.
+
+## Key Topics Covered  
+- Benefits of cloud migration vs. on-premise setup  
+- Recommended AWS services (EC2, RDS, S3, IAM, ELB, CloudWatch)  
+- High-level cost estimation  
+- Step-by-step migration strategy using tools like AWS DMS and DataSync  
+
 ---
 
 ## Tools and Technologies Used  
